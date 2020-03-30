@@ -10,6 +10,18 @@ class Cards extends Component {
           <div className="col-md-4">
             <Card />
           </div>
+          {/* <div className="col-md-4">
+            <Card />
+          </div>
+          <div className="col-md-4">
+            <Card />
+          </div> */}
+        </div>
+
+        {/* <div className="container-fluid d-flex justify-content-center">
+          <div className="col-md-4">
+            <Card />
+          </div>
           <div className="col-md-4">
             <Card />
           </div>
@@ -17,7 +29,7 @@ class Cards extends Component {
             <Card />
           </div>
         </div>
-
+        
         <div className="container-fluid d-flex justify-content-center">
           <div className="col-md-4">
             <Card />
@@ -28,31 +40,7 @@ class Cards extends Component {
           <div className="col-md-4">
             <Card />
           </div>
-        </div>
-
-        <div className="container-fluid d-flex justify-content-center">
-          <div className="col-md-4">
-            <Card />
-          </div>
-          <div className="col-md-4">
-            <Card />
-          </div>
-          <div className="col-md-4">
-            <Card />
-          </div>
-        </div>
-
-        <div className="container-fluid d-flex justify-content-center">
-          <div className="col-md-4">
-            <Card />
-          </div>
-          <div className="col-md-4">
-            <Card />
-          </div>
-          <div className="col-md-4">
-            <Card />
-          </div>
-        </div>
+        </div> */}
       </div>
     );
   }
